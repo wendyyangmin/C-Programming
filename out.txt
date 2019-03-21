@@ -1,0 +1,21 @@
+
+ 25.200
+ 34.700
+ 8.000
+ 135.000
+ 7.746
+ 9.990
+ 50.000
+ 4.700
+ 89.671
+ 145723434.000
+
+
+ area of a triangle: 437.220
+ area of a sphere: 804.248
+ area of a sector: 75.398
+ area of an ellipse: 243.104
+ Miles from Kilometers:  80.450
+ Pounds from Kilograms:  10.364
+ Fahrenheit from Kelvin Temperature:  -298.262
+ Megabyte from terabytes:  14.572
